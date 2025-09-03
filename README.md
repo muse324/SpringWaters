@@ -26,7 +26,7 @@ https://imslp.org/wiki/12_Romances,_Op.14_(Rachmaninoff,_Sergei)
 ## 操作
 - システム初期化：「r」キー、または 88鍵盤の最低音（A0、いちばん左)
 - 演奏開始：　弾け。
-  - 参考楽譜：ピアノソロ譜-抜粋.pdfを参照。
+  - 参考楽譜：[[SpringWaters_solo - Score.pdf](./SpringWaters_solo - Score.pdf)](https://github.com/muse324/SpringWaters/blob/main/SpringWaters_solo%20-%20Score.pdf)を参照。
   - 開発者本人仕様のアレンジのため、フル楽譜は作成していません。[IMSLP楽譜](https://imslp.org/wiki/12_Romances,_Op.14_(Rachmaninoff,_Sergei))あたりを参照してください
 - 後半部へジャンプ：A4, A5（オクターブ）を押したまま、ダンパーペダル（右）を踏んで離す
 - 演奏終了時：初期化しておきましょう（しなくても可）
